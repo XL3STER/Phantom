@@ -1,0 +1,15 @@
+
+New Colors
+New Teleports location
+New Spectate Player
+
+Phantom V4 Fix
+
+Fix Boost (R3)
+Fix Back Boost (L3)
+Fix Burnt Car
+Fix Freeze Lobby V2 (Beta)
+Fix Off The Radar
+
+Pepitax V4 content removed
+Freeze Hextix [Reason: You freeze yourself]
